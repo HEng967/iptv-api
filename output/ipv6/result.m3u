@@ -5999,6 +5999,8 @@ url
 url
 #EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州移动电视.png" group-title="🈳无结果频道",贵州移动电视
 url
+#EXTINF:-1 tvg-name="遵义新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遵义新闻综合.png" group-title="🈳无结果频道",遵义新闻综合
+url
 #EXTINF:-1 tvg-name="遵义公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遵义公共.png" group-title="🈳无结果频道",遵义公共
 url
 #EXTINF:-1 tvg-name="崆峒综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/崆峒综合.png" group-title="🈳无结果频道",崆峒综合
@@ -6318,6 +6320,8 @@ url
 #EXTINF:-1 tvg-name="内蒙新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙新闻.png" group-title="🈳无结果频道",内蒙新闻
 url
 #EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙少儿.png" group-title="🈳无结果频道",内蒙少儿
+url
+#EXTINF:-1 tvg-name="内蒙文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙文体.png" group-title="🈳无结果频道",内蒙文体
 url
 #EXTINF:-1 tvg-name="内蒙农牧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙农牧.png" group-title="🈳无结果频道",内蒙农牧
 url
