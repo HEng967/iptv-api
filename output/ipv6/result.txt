@@ -2849,6 +2849,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 音乐广播,https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 音乐广播,https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 音乐广播,https://tv.iill.top/fm/552&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
+音乐广播,https://tv.iill.top/fm/552&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
@@ -2953,10 +2954,12 @@ NBTV-4,url
 姜堰新闻综合,url
 宜兴紫砂,url
 常州新闻综合,url
+常熟新闻,url
 常熟民生,url
 张家港新闻综合,url
 张家港民生,url
 扬中党建民生,url
+扬中新闻,url
 扬州城市,url
 扬州新闻,url
 扬州生活,url
@@ -2987,8 +2990,12 @@ NBTV-4,url
 长沙政法,url
 长沙女性,url
 衡阳新闻综合,url
+益阳公共,url
 湘潭新闻综合,url
 湘潭公共,url
+汝城综合,url
+永顺综合,url
+宁乡综合,url
 湖北公共新闻,url
 湖北经济,url
 武汉三台科技生活,url
@@ -2999,6 +3006,7 @@ NBTV-4,url
 武汉文体,url
 武汉外语,url
 郧阳新闻综合,url
+云梦综合,url
 武汉生活,url
 武汉新闻,url
 潜江综合,url
@@ -3012,6 +3020,7 @@ NBTV-4,url
 北海新闻,url
 桂林新闻,url
 广西贺州,url
+广西乐思购,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
@@ -3066,6 +3075,7 @@ NBTV-4,url
 德化新闻综合,url
 新罗电视一套,url
 晋江电视台,url
+泰宁新闻,url
 漳浦综合,url
 石狮综合,url
 龙岩新闻综合,url
@@ -3074,10 +3084,15 @@ NBTV-4,url
 漳州新闻,url
 龙岩综合,url
 周口扶沟,url
+睛彩许昌,url
 睛彩焦作,url
 邯郸新闻,url
 邢台城生,url
+大厂一套,url
+松桃新闻,url
+石阡新闻,url
 七星关电视台,url
+道真新闻综合,url
 凤冈综合,url
 清镇新闻综合,url
 贵州移动电视,url
@@ -3217,6 +3232,7 @@ NBTV-4,url
 吴忠综合,url
 吴忠公共,url
 宁夏少儿,url
+石嘴山综合,url
 吉林影院,url
 吉林公共,url
 延边-1,url
@@ -3279,6 +3295,7 @@ NBTV-4,url
 云南都市,url
 云南娱乐,url
 云南少儿,url
+云南澜湄国际,url
 海西州综合,url
 门源综合,url
 贵南综合,url

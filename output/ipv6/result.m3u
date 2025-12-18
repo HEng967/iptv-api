@@ -5547,6 +5547,8 @@ https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54da
 https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
 https://tv.iill.top/fm/552&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
+#EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
+https://tv.iill.top/fm/552&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://lu.wqwqwq.sbs/yy/1354930909
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
@@ -5747,6 +5749,8 @@ url
 url
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/常州新闻综合.png" group-title="🈳无结果频道",常州新闻综合
 url
+#EXTINF:-1 tvg-name="常熟新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/常熟新闻.png" group-title="🈳无结果频道",常熟新闻
+url
 #EXTINF:-1 tvg-name="常熟民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/常熟民生.png" group-title="🈳无结果频道",常熟民生
 url
 #EXTINF:-1 tvg-name="张家港新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家港新闻综合.png" group-title="🈳无结果频道",张家港新闻综合
@@ -5754,6 +5758,8 @@ url
 #EXTINF:-1 tvg-name="张家港民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张家港民生.png" group-title="🈳无结果频道",张家港民生
 url
 #EXTINF:-1 tvg-name="扬中党建民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扬中党建民生.png" group-title="🈳无结果频道",扬中党建民生
+url
+#EXTINF:-1 tvg-name="扬中新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扬中新闻.png" group-title="🈳无结果频道",扬中新闻
 url
 #EXTINF:-1 tvg-name="扬州城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扬州城市.png" group-title="🈳无结果频道",扬州城市
 url
@@ -5815,9 +5821,17 @@ url
 url
 #EXTINF:-1 tvg-name="衡阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/衡阳新闻综合.png" group-title="🈳无结果频道",衡阳新闻综合
 url
+#EXTINF:-1 tvg-name="益阳公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/益阳公共.png" group-title="🈳无结果频道",益阳公共
+url
 #EXTINF:-1 tvg-name="湘潭新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湘潭新闻综合.png" group-title="🈳无结果频道",湘潭新闻综合
 url
 #EXTINF:-1 tvg-name="湘潭公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湘潭公共.png" group-title="🈳无结果频道",湘潭公共
+url
+#EXTINF:-1 tvg-name="汝城综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汝城综合.png" group-title="🈳无结果频道",汝城综合
+url
+#EXTINF:-1 tvg-name="永顺综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永顺综合.png" group-title="🈳无结果频道",永顺综合
+url
+#EXTINF:-1 tvg-name="宁乡综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁乡综合.png" group-title="🈳无结果频道",宁乡综合
 url
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北公共新闻.png" group-title="🈳无结果频道",湖北公共新闻
 url
@@ -5838,6 +5852,8 @@ url
 #EXTINF:-1 tvg-name="武汉外语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武汉外语.png" group-title="🈳无结果频道",武汉外语
 url
 #EXTINF:-1 tvg-name="郧阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/郧阳新闻综合.png" group-title="🈳无结果频道",郧阳新闻综合
+url
+#EXTINF:-1 tvg-name="云梦综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云梦综合.png" group-title="🈳无结果频道",云梦综合
 url
 #EXTINF:-1 tvg-name="武汉生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武汉生活.png" group-title="🈳无结果频道",武汉生活
 url
@@ -5864,6 +5880,8 @@ url
 #EXTINF:-1 tvg-name="桂林新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/桂林新闻.png" group-title="🈳无结果频道",桂林新闻
 url
 #EXTINF:-1 tvg-name="广西贺州" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西贺州.png" group-title="🈳无结果频道",广西贺州
+url
+#EXTINF:-1 tvg-name="广西乐思购" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西乐思购.png" group-title="🈳无结果频道",广西乐思购
 url
 #EXTINF:-1 tvg-name="滨海新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滨海新闻.png" group-title="🈳无结果频道",滨海新闻
 url
@@ -5973,6 +5991,8 @@ url
 url
 #EXTINF:-1 tvg-name="晋江电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/晋江电视台.png" group-title="🈳无结果频道",晋江电视台
 url
+#EXTINF:-1 tvg-name="泰宁新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泰宁新闻.png" group-title="🈳无结果频道",泰宁新闻
+url
 #EXTINF:-1 tvg-name="漳浦综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/漳浦综合.png" group-title="🈳无结果频道",漳浦综合
 url
 #EXTINF:-1 tvg-name="石狮综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/石狮综合.png" group-title="🈳无结果频道",石狮综合
@@ -5989,13 +6009,23 @@ url
 url
 #EXTINF:-1 tvg-name="周口扶沟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周口扶沟.png" group-title="🈳无结果频道",周口扶沟
 url
+#EXTINF:-1 tvg-name="睛彩许昌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩许昌.png" group-title="🈳无结果频道",睛彩许昌
+url
 #EXTINF:-1 tvg-name="睛彩焦作" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩焦作.png" group-title="🈳无结果频道",睛彩焦作
 url
 #EXTINF:-1 tvg-name="邯郸新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邯郸新闻.png" group-title="🈳无结果频道",邯郸新闻
 url
 #EXTINF:-1 tvg-name="邢台城生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邢台城生.png" group-title="🈳无结果频道",邢台城生
 url
+#EXTINF:-1 tvg-name="大厂一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大厂一套.png" group-title="🈳无结果频道",大厂一套
+url
+#EXTINF:-1 tvg-name="松桃新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松桃新闻.png" group-title="🈳无结果频道",松桃新闻
+url
+#EXTINF:-1 tvg-name="石阡新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/石阡新闻.png" group-title="🈳无结果频道",石阡新闻
+url
 #EXTINF:-1 tvg-name="七星关电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七星关电视台.png" group-title="🈳无结果频道",七星关电视台
+url
+#EXTINF:-1 tvg-name="道真新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/道真新闻综合.png" group-title="🈳无结果频道",道真新闻综合
 url
 #EXTINF:-1 tvg-name="凤冈综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤冈综合.png" group-title="🈳无结果频道",凤冈综合
 url
@@ -6275,6 +6305,8 @@ url
 url
 #EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏少儿.png" group-title="🈳无结果频道",宁夏少儿
 url
+#EXTINF:-1 tvg-name="石嘴山综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/石嘴山综合.png" group-title="🈳无结果频道",石嘴山综合
+url
 #EXTINF:-1 tvg-name="吉林影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林影院.png" group-title="🈳无结果频道",吉林影院
 url
 #EXTINF:-1 tvg-name="吉林公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林公共.png" group-title="🈳无结果频道",吉林公共
@@ -6398,6 +6430,8 @@ url
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南娱乐.png" group-title="🈳无结果频道",云南娱乐
 url
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南少儿.png" group-title="🈳无结果频道",云南少儿
+url
+#EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南澜湄国际.png" group-title="🈳无结果频道",云南澜湄国际
 url
 #EXTINF:-1 tvg-name="海西州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海西州综合.png" group-title="🈳无结果频道",海西州综合
 url
