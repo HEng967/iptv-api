@@ -2911,7 +2911,6 @@ NBTV-4,url
 金华公共,url
 舟山新闻综合,url
 舟山公共,url
-浙江青田,url
 金华都市农村,url
 鄞州二套,url
 鄞州一套,url
@@ -3265,7 +3264,6 @@ NBTV-4,url
 汪清综合,url
 内蒙新闻,url
 内蒙少儿,url
-内蒙文体,url
 内蒙农牧,url
 蒙语文化,url
 内蒙古综合,url
