@@ -2912,6 +2912,7 @@ NBTV-4,url
 金华公共,url
 舟山新闻综合,url
 舟山公共,url
+浙江青田,url
 金华都市农村,url
 鄞州二套,url
 鄞州一套,url
