@@ -3174,7 +3174,6 @@ NBTV-4,url
 沙湾综合,url
 绵阳综合,url
 西昌综合,url
-金川乡村,url
 长宁综合,url
 雅安公共,url
 雅安新闻综合,url
