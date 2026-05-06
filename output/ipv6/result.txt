@@ -3248,6 +3248,7 @@ NBTV-4,url
 龙岩新闻综合,url
 福建文体,url
 福建体育,url
+福建海峡卫视,url
 漳州新闻,url
 龙岩综合,url
 周口扶沟,url
