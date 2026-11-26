@@ -3218,6 +3218,7 @@ NBTV-4,url
 盐都综合,url
 睢宁生活教育,url
 苏州4k,url
+苏州电影娱乐,url
 贾汪新闻,url
 贾汪旅游,url
 赣榆新闻综合,url
@@ -3230,6 +3231,7 @@ NBTV-4,url
 长沙政法,url
 长沙女性,url
 衡阳新闻综合,url
+衡阳公共,url
 益阳公共,url
 湘潭新闻综合,url
 湘潭公共,url

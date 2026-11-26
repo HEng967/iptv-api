@@ -6277,6 +6277,8 @@ url
 url
 #EXTINF:-1 tvg-name="苏州4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="🈳无结果频道",苏州4k
 url
+#EXTINF:-1 tvg-name="苏州电影娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州电影娱乐.png" group-title="🈳无结果频道",苏州电影娱乐
+url
 #EXTINF:-1 tvg-name="贾汪新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贾汪新闻.png" group-title="🈳无结果频道",贾汪新闻
 url
 #EXTINF:-1 tvg-name="贾汪旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贾汪旅游.png" group-title="🈳无结果频道",贾汪旅游
@@ -6300,6 +6302,8 @@ url
 #EXTINF:-1 tvg-name="长沙女性" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长沙女性.png" group-title="🈳无结果频道",长沙女性
 url
 #EXTINF:-1 tvg-name="衡阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/衡阳新闻综合.png" group-title="🈳无结果频道",衡阳新闻综合
+url
+#EXTINF:-1 tvg-name="衡阳公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/衡阳公共.png" group-title="🈳无结果频道",衡阳公共
 url
 #EXTINF:-1 tvg-name="益阳公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/益阳公共.png" group-title="🈳无结果频道",益阳公共
 url
